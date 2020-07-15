@@ -1,0 +1,134 @@
+#include<stdio.h>
+#include<stdlib.h>
+#define m 100
+#define right 1
+#define down  2
+#define left  3
+#define up    4  
+typedef struct{
+	int x;
+	int y;
+	int di;
+}selemtape;
+typedef struct{
+	selemtape *top;
+	selemtape *base;
+	int listsize;
+}sqstack;
+void createsqstack(sqstack &s)
+{
+	s.base=(selemtape *)malloc(m*sizeof(selemtape));
+	s.top=s.base+1;
+	(s.top-1)->x=1;(s.top-1)->y=1;
+	(s.top-1)->di=1; 
+	s.listsize=m;
+}
+void push(sqstack &s,int x,int y,int di)//设置路径入栈 
+{
+	s.top->x=x;s.top->y=y;
+	s.top->di=di;
+	s.top++;
+}
+void pop(sqstack &s,int &a,int &b,int &dir)//设置路径出栈 设置出栈接收数据 
+{
+	a=(s.top-1)->x;b=(s.top-1)->y;
+	dir=(s.top-1)->di;
+	s.top--;
+}
+void trsqstack(sqstack s)
+{
+	selemtape *p;
+	p=s.base;
+	printf("路径坐标:\n");
+	while(p<s.top)
+	{
+		printf("(%d,%d) ",p->x,p->y);
+		p++;
+	}
+} 
+void createmap(int map[10][10])
+{
+	int i,j;int q,w,k;
+	for(i=0;i<10;i++)
+	{
+		for(j=0;j<10;j++)
+		{
+			map[i][j]=0;
+		}
+	}
+	for(j=0;j<10;j++)
+	{
+		map[0][j]=1;
+		map[9][j]=1;
+	}
+	for(i=1;i<9;i++)
+	{
+		map[i][0]=1;
+		map[i][9]=1;
+	}
+	printf("构建内墙,输入墙的横纵坐标(禁止输入坐标1.1;8.8):\n");
+	for(k=1;k<=30;k++)
+	{
+		scanf("%d%d",&q,&w);
+		if(q<0||q>9||w<0||w>9)
+		break;
+		map[q][w]=1;
+		
+	}
+	printf("输出地图:\n");
+	for(i=0;i<10;i++)//显示地图 
+	{
+		for(j=0;j<10;j++)
+	{printf("%d ",map[i][j]);}
+	    printf("\n");
+	}
+}
+void mappath()
+{
+	int map[10][10];
+	sqstack s;
+	int a,b,dir;//a表示横坐标,b表示纵坐标,dir表示方向 
+	printf("创建地图,默认墙为1,空地为0,入口为1.1,出口8.8\n");
+	createmap(map);
+	createsqstack(s);
+	while(((s.top-1)->x!=8)||((s.top-1)->y!=8))
+    {
+     	if(map[((s.top-1)->x)+1][(s.top-1)->y]==0)
+		{
+		   (s.top-1)->di=1; 
+		   push(s,((s.top-1)->x)+1,(s.top-1)->y,1);
+		   map[((s.top-1)->x)+1][(s.top-1)->y]==1; 
+		} 
+		else if(map[(s.top-1)->x][((s.top-1)->y)+1]==0)
+		{
+			(s.top-1)->di=2;
+			push(s,(s.top-1)->x,((s.top-1)->y)+1,1);
+			map[(s.top-1)->x][((s.top-1)->y)+1]==1;
+		}
+		else if(map[((s.top-1)->x)-1][(s.top-1)->y]==0)
+		{
+			(s.top-1)->di==3;
+			push(s,((s.top-1)->x)-1,(s.top-1)->y,1);
+			map[((s.top-1)->x)-1][(s.top-1)->y]==1;
+	    }
+	    else if(map[(s.top-1)->x][((s.top-1)->y-1)]==0)
+	    {
+    		(s.top-1)->di==4;
+    		push(s,(s.top-1)->x,((s.top-1)->y-1),1);
+    		map[(s.top-1)->x][((s.top-1)->y-1)]==0;
+   		}
+   		else
+		{
+	    	while(map[((s.top-1)->x)+1][(s.top-1)->y]==1&&map[(s.top-1)->x][((s.top-1)->y)+1]==1&&map[((s.top-1)->x)-1][(s.top-1)->y]==1&&map[(s.top-1)->x][((s.top-1)->y-1)]==1)
+	    	{
+	  		    pop(s,a,b,dir);
+	    	}
+	    }//出栈 
+    }
+	trsqstack(s);
+}
+int main()
+{
+	mappath();
+	return 0;
+} 

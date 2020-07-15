@@ -1,0 +1,73 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<malloc.h>
+#include<string.h> 
+#define m 20
+#define n 5
+typedef struct{
+	char *base;
+    char *top;
+	int stacksize;
+}sqstack;
+void initstack(sqstack &s)
+{
+	s.base=(char *)malloc(m*sizeof(char));
+	if(!s.base)printf("wrong");
+	s.top=s.base;
+	s.stacksize=m;
+}
+void push(sqstack &s, char e){ 
+ 
+ *s.top++=e; 
+ }
+void pop(sqstack &s,char &e)
+{
+	if(s.top==s.base)printf("wrong");
+	e=*--s.top;
+	printf("%c",e);
+}
+int gettop(sqstack &s,char &e)
+{
+	if(s.top==s.base)printf("wrong");
+	e=*(s.base-1);
+	return e;
+} 
+int main()
+{
+	sqstack s1;
+	int r,r1;
+	char c;
+	char i,j,k;
+	int count=0;
+	char l; 
+	initstack(s1);
+    printf("输入运算符与操作数的数量:");scanf("%d",&r);
+    printf("输入运算符与操作数:\n"); 
+   for(r1=1;r1<=r;r1++)
+	{
+	scanf("%c",&c);
+    if(c=='-')push(s1,c);
+	else if(c=='+')push(s1,c);
+	else if(c=='*')push(s1,c);
+	else if(c=='/')push(s1,c);
+	else if((c-'0')%1==0)  
+	{
+     push(s1,c);
+     count++;
+	if(count==2)
+	{
+	pop(s1,i);pop(s1,j);pop(s1,k);
+	switch(k)
+	{
+	case'+':i=i+j;break;
+	case'-':i=i-j;break;
+	case'*':i=i*j;break;
+	case'/':i=i/j;break;
+	}
+	push(s1,i);
+	count=1;
+	}
+	} 
+	}
+    return 0;
+}

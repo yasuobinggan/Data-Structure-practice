@@ -1,0 +1,30 @@
+ initstack(s1);
+    printf("输入运算符与操作数的数量:");scanf("%d",&r);
+	for(r1=1;r1<r;r1++)
+	{
+		printf("输入操作数或栈\\输入#号为截至:");scanf("%c",&c);
+		while(c!='#')
+		{
+			if(c=='-')push(s1,c);
+			else if(c=='+')push(s1,c);
+			else if(c=='*')push(s1,c);
+			else if(c=='/')push(s1,c);
+			else push(s1,c); 
+			{
+				if(c%1==0)count++;
+				if(count==2)
+				{
+					pop(s1,i);pop(s1,j);pop(s1,k);
+					switch(k)
+					{
+						case'+':i=i+j;break;
+						case'-':i=i-j;break;
+						case'*':i=i*j;break;
+						case'/':i=i/j;break;
+					}
+					push(s1,i);
+					count=1;
+				}
+			} 
+		}
+	} 

@@ -1,0 +1,40 @@
+#include<stdio.h>
+#include<stdlib.h> 
+#include<malloc.h> 
+#define m 20
+typedef struct
+{
+	int *top;
+	int *base;
+	int stacksize; 
+}sqstack;
+void creatstack(sqstack q)
+{
+	q.base=(int *)malloc(m*sizeof(int));
+	if(!q.base)printf("wrong");
+	q.top=q.base;
+	q.stacksize=m;
+}
+void push(sqstack q,int e)
+{
+	*q.top++=e;
+}
+void pop(sqstack q,int e)
+{
+	if(q.top==q.base)printf("wrong");
+	while(q.top!=q.base)
+	{
+	 e=*q.top--;
+     printf("%d",e);
+	}
+}
+int main()
+{
+	sqstack q;
+	int e;
+	scanf("%d",&e);
+	creatstack(q);
+	push(q,e);
+	pop(q,e);
+	return 0;	
+}  

@@ -1,0 +1,62 @@
+#include<stdio.h>
+#include<stdlib.h>
+typedef struct btnode{
+	char data;
+	struct	btnode *lbt;
+	struct 	btnode *rbt;
+}btnode,*btree;
+int i=0;
+void createtree(btree &tree)
+{
+	char e;
+	//printf("输入字符\n");
+	scanf("%c",&e);
+	if(e=='#')tree=NULL;//return;
+	else
+	{
+		tree=(btnode *)malloc(sizeof(btnode));
+		tree->data=e; 
+		createtree(tree->lbt);
+		createtree(tree->rbt);
+	}
+}
+char travel(btree tree)
+{
+	char a[100];
+	if(!tree)return NULL;
+	//printf("%c",tree->data);
+	a[i]=tree->data;
+	i++; 
+	travel(tree->lbt);
+	travel(tree->rbt);
+	return a[100];
+}
+
+void xxtrtree(btree tree)//深度优先遍历二叉树 
+{
+	//printf("输出当前层的字符:\n");
+	
+	if(tree==NULL)return;
+	printf("%d\n",tree->data); 
+	if(tree->lbt!=NULL)
+		xxtrtree(tree->lbt);
+	if(tree->rbt!=NULL)
+		xxtrtree(tree->rbt);
+	
+}
+
+int main()
+{
+	btree tree;
+	char max[100],j;
+	printf("创造二叉树:\n");
+	createtree(tree);
+	//printf("qwer",tree->data);
+	max[100]=travel(tree);
+	for(j=0;j<i;j++)
+	printf("%c\t",max[j]);
+	//xxtrtree(tree); 
+	return 0;
+ } 
+
+

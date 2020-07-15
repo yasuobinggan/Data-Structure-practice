@@ -1,0 +1,80 @@
+学科	D	D	N	N	D	k	k	k	3	3		g	3	1
+长度	D	D	N	N	D	n	n	n	1	1			1	1
+美好	E	E	A	A	E	d	d	d	3	3			3	1
+共总	H	H	D	V	H	e	j	e	16	15			16	1
+质问	H	H	V	V	H	i	i	i	18	18			18	1
+矮小	E	E	A	A	E	a	a	a	3	3			3	1
+责问	H	H	V	V	H	i	i	i	18	18			18	1
+播种	H	H	V	V	H	d	d	d	20	20			20	1
+差使	H	H	V	V	H	c	c	c	4	4	g		4	1
+盘问	H	H	V	V	H	c	i	i	19	18			18	1
+解除	H	J	V	V	H	c	d	c	6	10		g	6	2
+漂白	H	E	V	B	H	d	c	d	12	4			12	2
+急促	E	E	V	A	E	b	b	b	23	25		g	23	2
+体察	G	H	V	V	H	b	j	j	1	26		g	26	2
+考察	H	H	V	V	H	c	j	c	18	26		g	18	2
+姿态	D	D	N	N	D	c	c	c	3	1	g	g	3	2
+眯眼	F	B	V	N	F	c	k	c	2	3			2	2
+亲眼	K	B	D	N	K	a	k	a	24	3			24	2
+姿态	D	D	N	N	D	c	c	c	3	1		g	3	2
+家园	D	B	N	N	D	i	n	i	5	12		g	5	2
+永恒	E	E	A	A	E	b	d	d	24	14			14	3
+碰撞	F	F	V	V	F	a	d	a	29	8			29	3
+譬犹	J	J	V	V	J	a	b	a	1	3	g		1	3
+飞蓬	I	B	V	N	B	a	h	h	3	3		g	3	3
+喷吐	I	F	V	V	F	d	c	c	10	8			8	3
+挠钩	H	B	V	N	B	i	o	o	45	5		g	5	3
+阿婆	K	A	N	N	A	d	b	b	6	2	h	g	2	3
+灵芝	E	B	A	N	B	d	h	h	47	4		g	4	3
+奶娃	H	A	V	N	A	j	b	b	45	4			4	3
+老鼠	K	B	N	N	B	d	i	i	6	8	h		8	3
+撮合	I	F	V	V	H	e	a	i	10	31			16	4
+蜕化	I	I	V	V	I	e	h	e	12	1			12	4
+阙下	B	C	N	N	D	n	b	m	23	3	g	g	1	4
+偃月	F	B	V	N	E	d	d	a	3	2			13	4
+麾下	B	C	N	N	A	p	b	j	20	3		g	8	4
+麾下	B	C	N	N	A	p	b	e	20	3		g	10	4
+毂下	B	C	X	N	D	o	b	i	25	3		g	3	4
+辇下	B	C	N	N	D	o	b	i	21	3		g	3	4
+驽下	B	C	N	N	E	i	b	e	6	3	g	g	15	4
+在下	K	C	P	N	A	b	b	a	1	3		g	2	4
+酒工	B	A	N	N	A	r	e	e	12	2		g	2	5
+巨资	E	D	A	N	D	a	j	j	3	3			3	5
+巨作	E	D	A	N	D	a	k	k	3	19			19	5
+剧作	D	D	N	N	D	k	k	k	29	19	g		19	5
+楼市	B	C	N	N	C	n	b	b	1	28		g	28	5
+草场	B	C	N	N	B	h	b	e	3	28		g	1	5
+草人	B	A	N	N	B	h	a	a	3	1			3	5
+奋进	H	H	V	V	I	j	j	e	8	67	g		12	5
+妇人	A	A	N	N	A	b	a	b	1	1	g		1	5
+急人	G	A	V	N	E	a	a	e	10	1			33	5
+试场	H	C	V	N	C	j	b	b	12	28		g	28	6
+待到	H	H	V	V	K	i	f	b	7	8	g		2	6
+古来	C	H	T	V	C	a	j	a	2	63			11	6
+讲理	H	D	V	N	E	i	b	e	12	6			38	6
+泽国	B	D	N	N	B	e	i	e	1	2	g		1	6
+泽国	B	D	N	N	C	e	i	b	1	2	g		10	6
+夫人	A	A	N	N	A	h	a	b	8	1	g		1	6
+福人	D	A	N	N	A	a	a	g	9	1	g		5	6
+画工	H	A	V	N	A	g	e	e	19	2		g	2	6
+画人	H	A	V	N	A	g	a	l	19	1			1	6
+效应	D	H	N	V	D	a	i	a	25	18			25	7
+知道	G	B	V	N	G	b	n	b	8	11			8	7
+速决	E	G	A	V	J	b	a	d	23	11			9	7
+音强	B	E	N	A	D	g	d	n	7	3			1	7
+宏达	E	H	A	V	E	d	f	e	20	8			18	7
+脑际	B	C	N	N	D	k	b	f	2	14	g	g	1	7
+细条	E	B	A	N	E	a	h	a	6	10		g	6	7
+救应	H	H	V	V	H	i	i	i	36	18			36	7
+味道	B	B	N	N	B	g	n	g	6	11			6	7
+恢达	E	H	A	V	E	a	f	e	4	8			35	7
+原由	K	D	D	N	D	a	b	b	10	1			1	8
+反应	H	H	V	V	D	b	i	a	3	18	g		25	8
+独特	K	E	D	A	E	a	d	d	23	4			4	8
+开口	I	B	V	N	H	h	k	i	3	4			12	8
+其间	A	C	R	F	D	a	b	a	4	4			5	8
+温情	E	D	A	N	E	b	f	d	26	4			15	8
+虎步	B	D	N	N	D	i	c	c	2	3			3	8
+碎步	E	D	A	N	F	b	c	b	7	3			1	8
+旷世	E	C	A	T	E	a	a	d	4	2		g	4	8
+蕙质	B	D	N	N	D	h	d	e	3	1			1	8

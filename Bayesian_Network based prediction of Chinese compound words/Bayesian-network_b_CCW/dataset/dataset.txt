@@ -1,0 +1,800 @@
+人民	A	A	N	N	A	a	a	a	1	1		g	1	1
+人人	A	A	N	N	A	a	a	a	1	1			1	1
+市场	C	C	N	N	C	b	b	b	28	28	g	g	28	1
+资产	D	D	N	N	D	j	j	j	3	3		g	3	1
+出来	H	H	V	V	H	j	j	j	64	63			64	1
+众多	E	E	A	A	E	b	b	b	1	1			1	1
+繁多	E	E	A	A	E	b	b	b	1	1	g		1	1
+答对	H	H	V	V	H	i	i	i	18	18	g		18	1
+子民	A	A	N	N	A	a	a	a	1	1		g	1	1
+达到	J	H	V	V	J	e	f	e	12	8			12	1
+义理	D	D	N	N	D	b	b	b	6	6			6	1
+集市	C	C	N	N	C	b	b	b	8	28		g	28	1
+局部	E	E	N	N	E	b	b	b	2	2	g	g	2	1
+修建	H	H	V	V	H	d	d	d	1	1		g	1	1
+完成	I	I	V	V	I	e	f	e	14	22			14	1
+酬对	H	H	V	V	H	i	i	i	18	18	g		18	1
+薪资	D	D	N	N	D	j	j	j	7	3			7	1
+藩国	D	D	N	N	D	i	i	i	2	2	g		2	1
+皇上	A	A	N	N	A	f	f	f	5	5			5	1
+庶民	A	A	N	N	A	a	a	a	1	1	g	g	1	1
+温和	E	E	A	A	E	e	e	e	7	7		g	7	1
+圩场	C	C	N	N	C	b	b	b	28	28		g	28	1
+圩市	C	C	N	N	C	b	b	b	28	28		g	28	1
+行业	D	D	N	N	D	i	i	i	18	18		g	18	1
+情理	D	D	N	N	D	b	b	b	6	6	g		6	1
+事务	D	D	N	N	D	a	a	a	1	1		g	1	1
+增加	I	I	V	V	I	h	h	h	5	5			5	1
+技能	D	D	N	N	D	e	e	e	4	4		g	4	1
+才能	D	D	N	N	D	e	e	e	4	4		g	4	1
+身体	B	B	N	N	B	k	k	k	1	1			1	1
+演化	I	I	V	V	I	h	h	h	1	1			1	1
+申报	H	H	V	V	H	i	i	c	14	15			15	1
+久长	E	E	A	A	E	b	a	b	24	1			24	1
+付与	H	J	V	V	J	i	e	e	27	5			5	1
+摆设	I	H	V	V	I	d	c	d	8	5			8	1
+刑法	D	D	N	N	D	i	i	i	26	25		g	25	1
+刑法	D	D	N	N	D	i	i	i	26	25		g	26	1
+宪法	D	D	N	N	D	i	i	i	25	25		g	25	1
+赠与	H	J	V	V	H	i	e	i	26	5			26	1
+炮制	H	H	V	V	H	j	d	d	43	4			4	1
+颜面	D	B	N	N	B	k	k	k	2	2		g	2	1
+叙说	H	H	V	V	H	i	i	i	12	12			13	1
+锐利	E	E	A	A	E	b	b	b	14	14	g		14	1
+躯体	B	B	N	N	B	k	k	k	1	1	g		1	1
+禀报	H	H	V	V	H	i	i	c	15	15			15	1
+胴体	B	B	N	N	B	k	k	k	1	1			1	1
+经过	H	H	V	V	H	f	f	f	6	6			6	1
+开设	H	H	V	V	H	c	c	c	5	5			5	1
+动用	H	H	V	V	H	j	j	j	28	28			28	1
+等同	J	J	V	V	J	b	b	b	1	1	g		1	1
+度过	H	H	V	V	H	j	f	j	3	6			3	1
+使用	H	H	V	V	H	j	j	j	28	28			28	1
+如同	J	J	V	V	J	b	b	b	3	1			3	1
+安设	H	H	V	V	H	d	c	d	2	5			2	1
+运用	H	H	V	V	H	j	j	j	28	28			28	1
+修长	E	E	A	A	E	a	a	a	1	1			1	1
+变化	I	I	V	V	I	h	h	h	2	1			1	1
+划分	H	H	V	V	H	j	j	j	30	30			30	1
+回报	H	H	V	V	H	c	i	c	15	15			15	1
+套用	H	H	V	V	H	g	j	j	8	28			28	1
+差事	D	D	N	N	D	a	a	a	1	1	g		1	1
+获得	J	J	V	V	J	e	e	e	12	12		g	12	1
+追加	I	I	V	V	I	h	h	h	5	5			5	1
+夺得	J	J	V	V	J	e	e	e	12	12		g	12	1
+博得	J	J	V	V	J	e	e	e	12	12		g	12	1
+诉说	H	H	V	V	H	i	i	i	12	12			12	1
+急务	D	D	N	N	D	a	a	a	1	1		g	1	1
+简化	I	I	V	V	I	h	h	h	1	1			1	1
+场所	C	C	N	N	C	b	b	b	28	28	g	g	28	1
+出入	H	H	V	V	H	j	j	j	64	64			64	1
+方向	C	C	N	N	C	b	b	b	1	1	g	g	1	1
+技术	D	D	N	N	D	e	e	e	4	4		g	4	1
+良好	E	E	A	A	E	d	d	d	3	3			3	1
+座位	C	C	N	N	C	b	b	b	1	1		g	1	1
+微小	E	E	A	A	E	a	a	a	3	3			3	1
+坦平	E	E	A	A	E	a	a	a	11	11			11	1
+询问	H	H	V	V	H	i	i	i	24	18			18	1
+询问	H	H	V	V	H	i	i	i	24	18			24	1
+耕种	H	H	V	V	H	d	d	d	17	20			17	1
+畅通	I	I	V	V	I	d	d	d	20	20	g		20	1
+替代	H	H	V	V	H	i	i	i	17	17		g	17	1
+栽种	H	H	V	V	H	d	d	d	20	20			20	1
+俭省	E	E	A	A	E	e	e	e	26	26			26	1
+汁水	B	B	N	N	B	g	g	g	1	1			1	1
+瀛海	B	B	N	N	B	e	e	e	5	5	g		5	1
+伫立	F	F	V	V	F	b	b	b	3	3			3	1
+诘问	H	H	V	V	H	i	i	i	18	18	g		18	1
+褊小	E	E	A	A	E	a	a	a	4	3			4	1
+上好	E	E	A	A	E	d	d	d	6	3	g		3	1
+进入	H	H	V	V	H	j	j	j	64	64			64	1
+学科	D	D	N	N	D	k	k	k	3	3		g	3	1
+长度	D	D	N	N	D	n	n	n	1	1			1	1
+美好	E	E	A	A	E	d	d	d	3	3			3	1
+共总	H	H	D	V	H	e	j	e	16	15			16	1
+质问	H	H	V	V	H	i	i	i	18	18			18	1
+矮小	E	E	A	A	E	a	a	a	3	3			3	1
+责问	H	H	V	V	H	i	i	i	18	18			18	1
+播种	H	H	V	V	H	d	d	d	20	20			20	1
+差使	H	H	V	V	H	c	c	c	4	4	g		4	1
+盘问	H	H	V	V	H	c	i	i	19	18			18	1
+你们	A	A	R	R	A	a	a	a	3	1			3	2
+健全	E	E	A	A	E	b	b	b	37	7			37	2
+陈民	I	A	V	N	A	d	a	a	8	1	g	g	1	2
+似的	J	K	V	U	J	b	d	b	3	1			3	2
+俺们	A	A	R	R	A	a	a	a	2	1			2	2
+前方	C	C	N	N	C	b	b	b	12	1	g	g	12	2
+南部	C	E	N	N	C	b	b	b	8	2	g	g	8	2
+乡国	C	D	N	N	C	b	i	b	15	2			15	2
+推进	J	H	V	V	J	e	j	e	6	67			6	2
+淡出	E	H	A	V	H	e	j	j	33	64	g		64	2
+丈人	A	A	N	N	A	b	a	b	2	1			2	2
+娘们	A	A	N	R	A	b	a	b	1	1	g		1	2
+青年	A	C	N	N	A	b	a	b	3	14	g	g	3	2
+进化	H	I	V	V	I	j	h	h	67	1			1	2
+进化	H	I	V	V	I	j	h	h	67	1			1	2
+电化	B	I	N	V	I	g	h	h	4	1			1	2
+物事	B	D	N	N	B	a	a	a	1	1	g		1	2
+绿化	E	I	B	V	H	c	h	d	2	1			17	2
+磁化	D	I	N	V	D	d	h	d	1	1			1	2
+磷化	B	I	N	V	I	m	h	h	19	1			1	2
+硫化	B	I	N	V	I	m	h	h	19	1			1	2
+肢体	B	B	N	N	B	k	k	k	8	1	g		8	2
+氮化	B	I	N	V	I	g	h	h	5	1			1	2
+氯化	B	I	N	V	I	g	h	h	5	1	g		1	2
+在于	J	K	V	P	J	d	b	d	2	1			2	2
+文化	D	I	N	V	D	k	h	k	1	1			1	2
+亲自	K	A	D	R	K	a	a	a	24	5			24	2
+尽自	K	A	D	R	K	a	a	a	11	5			11	2
+矿化	B	I	N	V	I	a	h	h	8	1	g		1	2
+老化	I	I	V	V	I	a	h	h	12	1	g		1	2
+极化	K	I	D	V	I	a	h	h	3	1			1	2
+扭动	F	I	V	A	I	b	h	d	1	1			14	2
+净化	F	I	V	V	I	a	h	h	21	1			1	2
+独自	K	A	D	R	K	a	a	a	23	5			23	2
+碰面	I	B	V	N	I	d	k	d	18	2		g	18	2
+淡化	E	I	A	V	I	e	h	h	33	1	g		1	2
+伸长	I	E	V	A	I	h	a	h	3	1			3	2
+赤化	E	I	A	V	E	e	h	e	37	1			37	2
+赤化	E	I	A	V	E	e	h	e	37	1			37	2
+毒化	H	I	V	V	I	i	h	h	59	1			1	2
+碱化	H	I	V	V	I	i	h	h	61	1			1	2
+碱化	H	I	V	V	I	i	h	h	61	1			1	2
+纯化	E	I	A	V	E	d	h	d	35	1	g		35	2
+卤化	B	I	N	V	I	d	h	h	1	1	g		1	2
+等次	D	D	N	N	D	i	d	i	16	7		g	16	2
+等第	D	D	N	M	D	i	n	i	16	4			16	2
+查问	H	H	V	V	H	c	i	c	18	18			18	2
+访问	H	H	V	V	H	i	i	i	2	18			2	2
+逆向	J	C	V	N	J	b	b	b	2	1		g	2	2
+溺水	I	B	V	N	I	d	g	d	11	1			11	2
+内子	A	A	N	N	A	h	h	h	8	14	g		8	2
+查问	H	H	V	V	H	c	i	c	18	18	g		18	2
+淡入	E	H	A	V	H	e	j	j	33	64	g		64	2
+艺术	D	D	N	N	D	b	e	b	9	4		g	9	2
+廊道	B	B	N	N	B	n	n	n	10	11	g		10	2
+祸由	D	D	N	N	D	a	b	a	9	1			9	2
+门道	D	B	N	N	D	b	n	b	9	11	g		9	2
+坑道	B	B	N	N	B	n	n	n	16	11	g		16	2
+边际	C	C	N	N	C	b	b	b	6	14	g	g	6	2
+代书	H	H	V	V	H	i	g	g	17	11	g		11	2
+代书	H	H	V	V	H	i	g	g	17	11	g		11	2
+单相	E	K	B	D	K	b	a	a	2	23			23	2
+坟山	B	B	N	N	B	n	e	n	22	4			22	2
+首先	K	C	D	T	K	a	b	a	9	4		g	9	2
+验证	H	J	V	V	H	c	a	c	18	4			18	2
+解手	I	B	V	N	I	b	k	b	8	8			8	2
+老头	K	B	N	N	A	d	k	b	6	2	h		2	2
+苹果	B	B	N	N	B	h	h	h	7	13	g		7	2
+承受	H	J	V	V	H	j	e	j	24	14	g		24	2
+戒指	B	B	N	N	B	p	k	p	33	8	g		33	2
+倘或	K	K	C	D	K	c	a	c	8	17			8	2
+瞥视	F	F	V	V	F	c	c	c	4	4			4	2
+培土	H	B	V	N	H	d	m	d	21	4			21	2
+彩色	E	B	N	N	E	c	g	c	6	6	g		6	2
+染色	H	B	V	N	H	d	g	d	12	6			12	2
+要么	K	K	C	R	K	c	d	c	1	6		k	1	2
+多么	K	K	D	R	K	a	d	a	1	6		k	1	2
+那么	K	K	C	R	K	c	d	c	8	6		k	8	2
+界限	C	D	N	N	C	b	d	b	14	13	g		14	2
+成份	J	D	V	N	D	e	j	d	12	3	g	g	10	2
+连续	K	I	D	V	K	a	g	a	11	3			11	2
+近便	E	E	A	A	E	b	d	b	21	48		g	21	2
+灵便	E	E	A	A	E	e	d	e	16	48	g	g	16	2
+灯火	B	B	N	N	B	p	g	p	1	3			1	2
+柴火	B	B	N	N	B	m	g	m	9	3			9	2
+恋爱	H	G	V	V	H	j	b	j	51	9			51	2
+多半	K	D	D	M	K	a	n	a	5	5			5	2
+平声	B	B	N	N	B	g	g	g	7	7	g		7	2
+友爱	E	G	A	V	G	d	b	b	33	9			9	2
+友爱	E	G	A	V	G	d	b	b	33	9	g		9	2
+解除	H	J	V	V	H	c	d	c	6	10		g	6	2
+漂白	H	E	V	B	H	d	c	d	12	4			12	2
+急促	E	E	V	A	E	b	b	b	23	25		g	23	2
+体察	G	H	V	V	H	b	j	j	1	26		g	26	2
+考察	H	H	V	V	H	c	j	c	18	26		g	18	2
+姿态	D	D	N	N	D	c	c	c	3	1	g	g	3	2
+眯眼	F	B	V	N	F	c	k	c	2	3			2	2
+亲眼	K	B	D	N	K	a	k	a	24	3			24	2
+姿态	D	D	N	N	D	c	c	c	3	1		g	3	2
+家园	D	B	N	N	D	i	n	i	5	12		g	5	2
+事理	D	D	N	N	D	a	b	b	1	6			6	3
+推进	J	H	V	V	H	e	j	j	6	67			67	3
+跑来	I	H	V	V	H	a	j	j	10	63			63	3
+物事	B	D	N	N	D	a	a	a	1	1	g		1	3
+肢体	B	B	N	N	B	k	k	k	8	1	g		1	3
+皮重	B	D	N	N	D	b	n	n	4	1	g		1	3
+等次	D	D	N	N	D	i	d	d	16	7		g	7	3
+相当	K	J	D	V	J	a	b	c	23	1		g	1	3
+查问	H	H	V	V	H	c	i	i	18	18			18	3
+老三	K	D	N	M	D	d	n	n	6	4	h		4	3
+查问	H	H	V	V	H	c	i	i	18	18	g		18	3
+坑道	B	B	N	N	C	n	n	b	16	11	g		22	3
+老二	K	D	N	M	D	d	n	n	6	4	h		4	3
+边际	C	C	N	N	C	b	b	b	6	14	g	g	14	3
+老四	K	D	N	M	D	d	n	n	6	4	h		4	3
+验证	H	J	V	V	J	c	a	a	18	4			4	3
+承受	H	J	V	V	J	j	e	e	24	14	g		14	3
+倒台	I	B	V	N	I	f	n	f	22	21		g	22	3
+容易	D	E	N	A	E	c	d	d	2	7	g	g	7	3
+容易	D	E	N	A	J	c	d	c	2	7	g	g	7	3
+彩色	E	B	N	N	B	c	g	g	6	6	g		6	3
+界限	C	D	N	N	D	b	d	d	14	13	g		13	3
+老师	K	A	N	N	A	d	j	e	6	10	h	g	13	3
+连续	K	I	D	V	I	a	g	g	11	3			3	3
+近便	E	E	A	A	E	b	d	d	21	48		g	48	3
+灵便	E	E	A	A	E	e	d	d	16	48	g	g	48	3
+方便	K	E	D	A	E	a	d	d	12	48		g	48	3
+飞钱	E	D	A	N	D	d	j	j	23	5	g	g	5	3
+紧紧	E	E	A	A	E	b	b	b	9	9			9	3
+紧紧	E	E	A	A	E	b	b	b	9	9			9	3
+灯火	B	B	N	N	B	p	g	g	1	3			3	3
+恋爱	H	G	V	V	G	j	b	b	51	9			9	3
+多半	K	D	D	M	D	a	n	n	5	5			5	3
+友爱	E	G	A	V	E	d	b	d	33	9			33	3
+友爱	E	G	A	V	E	d	b	d	33	9	g		33	3
+解除	H	J	V	V	J	c	d	d	6	10		g	10	3
+急促	E	E	V	A	E	b	b	b	23	25		g	25	3
+考察	H	H	V	V	H	c	j	j	18	26		g	26	3
+草兰	B	B	N	N	B	h	h	h	3	2		g	2	3
+珠兰	B	B	N	N	B	b	h	h	4	2	g	g	2	3
+剑兰	B	B	N	N	B	o	h	h	29	2		g	2	3
+草兰	B	B	N	N	B	h	h	h	3	2	g	g	2	3
+辞章	D	D	N	N	D	k	k	k	7	19			19	3
+佩兰	B	B	N	N	B	m	h	h	16	2	g	g	2	3
+还击	H	F	V	V	F	b	a	a	3	1			1	3
+宏伟	E	E	A	A	E	d	d	d	20	20			20	3
+烽烟	B	B	N	N	B	g	f	f	3	5	g		5	3
+点播	H	H	V	V	H	d	h	h	20	3			3	3
+阿母	K	A	N	N	A	d	h	h	6	4	h	g	4	3
+燕鱼	D	B	N	N	B	d	i	i	15	14	r		14	3
+相宜	K	E	D	A	E	a	d	d	23	49			49	3
+鲲鹏	B	B	N	N	B	i	i	i	14	12			12	3
+开拓	H	H	V	V	H	c	d	d	5	17			17	3
+阿哥	K	A	N	N	A	d	h	h	6	9	h		9	3
+踪迹	D	B	N	N	B	a	g	g	23	9			9	3
+语句	D	D	N	N	D	k	k	k	11	6		g	6	3
+松软	E	E	A	A	E	b	b	b	9	10			10	3
+猥劣	E	E	A	A	E	e	d	d	42	3			3	3
+头顶	B	B	N	N	B	k	c	k	2	1		g	2	3
+松鸡	B	B	N	N	B	h	i	i	1	13	g		13	3
+燕麦	C	B	N	N	B	b	h	h	8	5	s	g	5	3
+喷涌	I	I	V	V	I	d	d	d	10	10			10	3
+蕉麻	B	B	N	N	B	h	h	h	1	9	g	g	9	3
+接触	E	I	V	V	I	b	d	d	21	18			18	3
+阿伯	K	A	N	N	A	d	h	h	6	5	h	g	5	3
+阿弟	K	A	N	N	A	d	h	h	6	9	h	g	9	3
+坑杀	H	H	V	V	H	i	n	n	59	5			5	3
+肉桂	B	B	N	N	B	h	h	h	13	8	g	g	8	3
+阿娘	K	A	N	N	A	d	h	h	6	4	h		4	3
+阿姐	K	A	N	N	A	d	h	h	6	10	h		10	3
+阿妈	K	A	N	N	A	d	h	h	6	4	h		4	3
+老虎	K	B	N	N	B	d	i	i	6	2	h		2	3
+裁撤	I	H	V	V	H	h	c	c	5	6			6	3
+年幼	C	E	N	A	E	a	b	b	14	36	g		36	3
+瓢虫	B	B	N	N	B	p	i	i	5	18	g	g	18	3
+绦虫	B	B	N	N	B	p	i	i	25	18	g	g	18	3
+南瓜	C	B	F	N	B	b	h	h	2	7			6	3
+鼻孔	B	C	N	N	C	k	b	b	3	22			22	3
+长辈	A	D	A	N	D	i	d	d	2	16			16	3
+木瓜	B	B	N	N	B	m	h	h	3	7	g		7	3
+烦扰	G	H	V	V	H	b	i	i	10	52		g	52	3
+便捷	E	E	A	A	E	d	b	b	48	23	g		23	3
+喷灌	I	H	V	V	H	d	d	d	10	16			16	3
+蒲柳	B	B	N	N	B	h	h	h	3	1	g	g	1	3
+演奏	H	H	V	V	H	h	h	h	1	4			4	3
+阿妹	K	A	N	N	A	d	h	h	6	10	h		10	3
+牌桌	B	B	N	N	B	o	p	p	32	29			29	3
+毛绒	B	B	N	N	B	k	k	q	11	11	g	g	1	3
+炮灰	B	B	N	N	B	o	b	b	27	2			2	3
+阿爸	K	A	N	N	A	d	h	h	6	4	h		4	3
+永恒	E	E	A	A	E	b	d	d	24	14			14	3
+碰撞	F	F	V	V	F	a	d	a	29	8			29	3
+譬犹	J	J	V	V	J	a	b	a	1	3	g		1	3
+飞蓬	I	B	V	N	B	a	h	h	3	3		g	3	3
+喷吐	I	F	V	V	F	d	c	c	10	8			8	3
+挠钩	H	B	V	N	B	i	o	o	45	5		g	5	3
+阿婆	K	A	N	N	A	d	b	b	6	2	h	g	2	3
+灵芝	E	B	A	N	B	d	h	h	47	4		g	4	3
+奶娃	H	A	V	N	A	j	b	b	45	4			4	3
+老鼠	K	B	N	N	B	d	i	i	6	8	h		8	3
+市场	C	C	N	N	D	b	b	a	28	28	g	g	21	4
+外出	C	H	N	V	H	b	j	f	15	64			4	4
+小市	E	C	A	N	C	a	b	b	3	28		g	28	4
+立场	F	C	V	N	D	b	b	b	3	28		g	8	4
+收生	H	A	V	N	H	c	e	g	7	13			22	4
+山人	B	A	N	N	A	e	a	f	4	1			11	4
+四方	D	C	M	N	E	n	b	a	4	1		g	13	4
+质的	D	K	N	U	B	d	d	o	1	1			29	4
+只是	K	E	D	A	K	a	d	c	7	12			13	4
+只是	K	E	D	A	K	a	d	c	7	12			3	4
+走时	F	C	V	N	I	b	a	f	7	3			3	4
+真理	E	D	A	N	D	d	b	b	1	6			6	4
+良人	E	A	A	N	A	d	a	h	3	1			8	4
+武工	A	A	N	N	D	e	e	k	10	2	g	g	30	4
+夫人	A	A	N	N	A	h	a	h	8	1	g		8	4
+沙场	B	C	N	N	B	m	b	e	4	28		g	1	4
+官人	A	A	N	N	A	f	a	b	8	1			1	4
+封建	H	H	V	V	E	c	d	e	25	1	g	g	39	4
+瓦全	B	E	N	A	H	m	b	j	6	7			9	4
+牛市	B	C	N	N	C	i	b	b	6	28		g	28	4
+跑到	F	H	V	V	H	b	f	f	1	8			8	4
+舒展	I	F	V	V	E	d	a	f	4	31			7	4
+鬼工	D	A	N	N	E	h	e	d	1	2		g	3	4
+寡人	E	A	A	N	A	b	a	a	1	1			2	4
+襟要	B	D	N	N	C	q	k	b	4	10	g		19	4
+杖国	B	D	N	N	C	o	i	a	20	2			14	4
+郡主	D	A	N	N	A	i	a	f	2	1		g	6	4
+上人	E	A	A	N	A	d	a	m	6	1	g		1	4
+要不	K	K	C	D	K	c	a	c	1	18			7	4
+经部	D	E	N	N	D	k	b	d	24	2	g	g	6	4
+经部	D	E	N	N	D	k	b	d	24	2	g	g	6	4
+全开	K	F	D	V	B	a	a	p	6	31			17	4
+进出	H	H	V	V	D	j	j	j	64	64			8	4
+下场	H	C	V	N	D	h	b	a	1	28		g	6	4
+下场	H	C	V	N	H	h	b	h	1	28		g	1	4
+下开	H	F	V	V	J	c	a	b	7	31			3	4
+后进	C	H	T	V	A	a	j	i	12	67	g		3	4
+好不	G	K	V	D	K	a	a	a	6	18			1	4
+起开	I	F	V	V	H	d	a	f	14	31	g		7	4
+山人	B	A	N	N	A	e	a	f	4	1	g		11	4
+集部	D	E	N	N	E	k	b	b	20	2	g	g	2	4
+执要	I	D	V	N	H	e	k	a	13	10			3	4
+准的	E	K	A	U	D	d	d	d	12	1			11	4
+走时	I	C	V	N	I	d	a	f	14	3			3	4
+招要	D	D	N	N	H	f	k	i	9	10			3	4
+遗产	J	D	V	N	D	d	j	g	1	3		g	1	4
+遗产	J	D	V	N	D	d	j	g	1	3	g	g	1	4
+丁部	C	E	T	N	E	a	b	b	32	2		g	2	4
+倾国	I	D	V	N	A	d	i	c	5	2			3	4
+清新	E	E	A	A	E	b	b	f	19	28			12	4
+初一	D	D	M	M	C	n	n	a	4	3			23	4
+初民	E	A	B	N	A	d	a	a	26	1	g	g	1	4
+初民	E	A	B	N	A	d	a	a	26	1	g	g	1	4
+圆日	B	B	N	N	C	b	d	a	4	2	g		23	4
+硬是	E	E	A	A	K	d	d	a	13	12			22	4
+即时	C	C	T	N	K	a	a	a	10	3			8	4
+当时	C	C	T	N	K	a	a	a	23	3	g		8	4
+日月	B	B	N	N	C	d	d	a	2	2			3	4
+场务	C	D	N	N	A	b	a	e	28	1	g	g	17	4
+会元	I	D	V	M	A	e	n	f	10	4			9	4
+开合	F	F	V	V	I	a	a	d	31	31			4	4
+体面	B	B	N	N	D	k	k	a	1	2		g	26	4
+体面	B	B	N	N	E	k	k	d	1	2		g	24	4
+体面	B	B	N	N	E	k	k	b	1	2		g	30	4
+目下	B	C	N	N	C	k	b	a	3	3		g	10	4
+内外	C	C	F	N	D	b	b	n	5	15			5	4
+省事	E	D	A	N	E	e	a	d	26	1			48	4
+物化	B	I	N	V	I	a	h	b	1	1	g		3	4
+头面	B	B	N	N	E	k	k	d	2	2		g	25	4
+风月	B	B	N	N	D	f	d	c	2	2			2	4
+走动	F	I	V	A	H	b	h	i	7	1			1	4
+千万	D	D	M	M	K	n	n	a	4	4			32	4
+足下	B	C	N	N	A	k	b	a	8	3		g	3	4
+春分	C	H	N	V	C	a	j	a	19	30			24	4
+春化	C	I	N	V	H	a	h	d	19	1			19	4
+扬长	F	E	V	A	H	a	a	j	4	1			63	4
+幅员	D	A	N	N	C	n	a	b	1	1	g	g	13	4
+乌合	B	F	N	V	I	i	a	e	11	31	g		10	4
+背后	B	C	N	F	E	k	b	d	6	4			44	4
+腐化	I	I	V	V	E	a	h	d	12	1	g		23	4
+乘务	H	D	V	N	D	f	a	a	2	1		g	1	4
+羽化	B	I	N	V	I	k	h	b	11	1			3	4
+涂月	F	B	V	N	C	a	d	a	20	2			21	4
+颜面	D	B	N	N	D	k	k	a	2	2		g	26	4
+插定	F	I	V	V	B	a	h	a	12	9			7	4
+鹤化	B	I	N	V	I	i	h	b	11	1			3	4
+僵化	E	I	A	V	I	b	h	g	10	1			2	4
+屁事	B	D	N	N	D	l	a	a	4	1			1	4
+笃定	E	I	V	V	E	e	h	d	6	9	g		50	4
+庶务	E	D	A	N	A	b	a	e	1	1		g	1	4
+撮合	I	F	V	V	H	e	a	i	10	31			16	4
+蜕化	I	I	V	V	I	e	h	e	12	1			12	4
+阙下	B	C	N	N	D	n	b	m	23	3	g	g	1	4
+偃月	F	B	V	N	E	d	d	a	3	2			13	4
+麾下	B	C	N	N	A	p	b	j	20	3		g	8	4
+麾下	B	C	N	N	A	p	b	e	20	3		g	10	4
+毂下	B	C	X	N	D	o	b	i	25	3		g	3	4
+辇下	B	C	N	N	D	o	b	i	21	3		g	3	4
+驽下	B	C	N	N	E	i	b	e	6	3	g	g	15	4
+在下	K	C	P	N	A	b	b	a	1	3		g	2	4
+我们	A	A	R	R	A	a	a	a	2	1			2	5
+人们	A	A	N	R	A	a	a	a	1	1			1	5
+到场	H	C	V	N	H	f	b	j	8	28		g	20	5
+工人	A	A	N	N	A	e	a	e	2	1	g		2	5
+建成	H	I	V	V	I	d	f	f	1	22	g		22	5
+建工	H	A	V	N	A	d	e	e	1	2	g	g	2	5
+来人	H	A	V	N	H	j	a	j	63	1			63	5
+建成	H	I	V	V	I	d	f	f	1	22	g		22	5
+建工	H	A	V	N	A	d	e	e	1	2	g	g	2	5
+同时	J	C	V	N	J	b	a	b	1	3			1	5
+现时	C	C	T	N	C	a	a	a	10	3			10	5
+过来	H	H	V	V	H	f	j	j	6	63			63	5
+加多	I	E	V	A	I	h	b	h	5	1			5	5
+得理	J	D	V	N	D	e	b	b	12	6	g		6	5
+面部	B	E	N	N	B	k	b	k	2	2	g	g	2	5
+农资	D	D	N	N	D	i	j	j	18	3			4	5
+法理	D	D	N	N	D	i	b	b	25	6	g		6	5
+分时	H	C	V	N	D	j	a	n	30	3			9	5
+增多	I	E	V	A	I	h	b	h	5	1			5	5
+第一	D	D	M	M	D	n	n	n	4	3			4	5
+改建	I	H	V	V	H	h	d	d	2	1		g	1	5
+改年	I	C	V	N	I	h	a	h	2	14		g	2	5
+技工	D	A	N	N	A	e	e	e	4	2		g	2	5
+门市	B	C	N	N	C	n	b	b	4	28		g	28	5
+内资	C	D	F	N	D	b	j	j	5	3			4	5
+最多	K	E	D	A	K	a	b	a	2	1			2	5
+东方	C	C	F	N	C	b	b	b	2	1		g	2	5
+党国	D	D	N	N	D	i	i	i	7	2			2	5
+调出	H	H	V	V	H	c	j	c	3	64			3	5
+东部	C	E	F	N	C	b	b	b	2	2		g	2	5
+交公	H	E	V	A	E	i	d	d	27	55		g	55	5
+两国	D	D	M	N	D	n	i	i	4	2			2	5
+计时	H	C	V	N	D	j	a	j	29	3			9	5
+南国	C	D	F	N	D	b	i	i	2	2			2	5
+安民	E	A	A	N	H	f	a	i	1	1		g	35	5
+治国	H	D	V	N	H	c	i	c	1	2			1	5
+集资	I	D	V	N	H	e	j	e	10	3			1	5
+军民	D	A	N	N	A	i	a	a	11	1	g	g	1	5
+村民	C	A	N	N	A	b	a	e	25	1	g	g	7	5
+车资	B	D	N	N	D	o	j	j	21	3			3	5
+集成	I	I	V	V	I	e	f	f	10	22			22	5
+军资	D	D	N	N	D	i	j	j	11	3	g		3	5
+放出	H	H	V	V	H	m	j	j	5	64			64	5
+论理	H	D	V	N	H	i	b	i	13	6	g		41	5
+乡民	C	A	N	N	A	b	a	d	25	1		g	1	5
+常人	E	A	A	N	A	d	a	g	4	1	g		1	5
+给以	H	K	V	P	J	i	b	e	26	5			5	5
+几多	D	E	M	A	D	n	b	n	5	1			5	5
+几时	D	C	M	N	C	n	a	a	5	3			31	5
+老了	E	K	A	U	I	b	d	b	36	2			3	5
+老年	E	C	A	N	C	b	a	a	36	14		g	17	5
+单人	E	A	B	N	E	b	a	b	2	1			2	5
+创业	H	D	V	N	H	c	i	c	5	18	g	g	5	5
+常理	E	D	A	N	D	d	b	b	4	6	g		6	5
+几个	D	D	M	Q	D	n	n	n	5	8			5	5
+单人	E	A	B	N	E	b	a	b	2	1			2	5
+副业	E	D	B	N	D	d	i	i	28	18		g	18	5
+传到	I	H	V	V	I	e	f	e	1	8			1	5
+每人	E	A	R	N	E	d	a	d	61	1			61	5
+女工	E	A	N	N	A	b	e	e	35	2	g	g	2	5
+女生	E	A	N	N	A	b	e	e	35	13	g		13	5
+真人	E	A	A	N	A	d	a	m	1	1			2	5
+拉来	F	H	V	V	H	a	j	i	2	63			46	5
+再不	K	K	D	D	K	a	a	c	14	18			7	5
+何人	B	A	R	N	A	a	a	a	10	1			6	5
+何时	B	C	R	N	C	a	a	a	10	3			31	5
+客人	A	A	N	N	A	j	a	j	5	1	g		5	5
+历时	H	C	V	N	C	j	a	a	3	3			3	5
+富国	E	D	A	N	D	f	i	i	14	2			5	5
+富人	E	A	A	N	D	f	a	i	14	1			5	5
+往来	H	H	V	V	H	j	j	j	63	63			63	5
+奖进	H	H	V	V	H	c	j	c	21	67			23	5
+乐业	G	D	V	N	D	a	i	i	1	18		g	18	5
+评出	H	H	V	V	H	c	j	c	20	64			20	5
+评理	H	D	V	N	H	c	b	c	20	6			20	5
+友人	A	A	N	N	A	j	a	j	1	1			1	5
+初日	C	B	T	N	B	a	d	d	7	2	g		2	5
+继进	I	H	V	V	H	g	j	j	3	67			67	5
+超时	J	C	V	N	J	e	a	b	9	3			4	5
+超市	J	C	V	N	D	e	b	m	9	28		g	4	5
+继业	I	D	V	N	H	g	i	j	3	18		g	10	5
+爱国	G	D	V	N	G	b	i	a	9	2			14	5
+良民	E	A	A	N	A	d	a	a	3	1		g	1	5
+讲理	H	D	V	N	H	i	b	i	12	6			41	5
+卖到	H	H	V	V	H	e	f	e	3	8			3	5
+早市	C	C	T	N	C	a	b	b	27	28		g	28	5
+底部	B	E	N	N	B	c	b	c	1	2	g	g	1	5
+菜市	B	C	N	N	C	h	b	b	6	28		g	28	5
+菜场	B	C	N	N	C	h	b	b	6	28		g	28	5
+私产	E	D	A	N	D	d	j	j	55	3	g	g	3	5
+酒工	B	A	N	N	A	r	e	e	12	2		g	2	5
+巨资	E	D	A	N	D	a	j	j	3	3			3	5
+巨作	E	D	A	N	D	a	k	k	3	19			19	5
+剧作	D	D	N	N	D	k	k	k	29	19	g		19	5
+楼市	B	C	N	N	C	n	b	b	1	28		g	28	5
+草场	B	C	N	N	B	h	b	e	3	28		g	1	5
+草人	B	A	N	N	B	h	a	a	3	1			3	5
+奋进	H	H	V	V	I	j	j	e	8	67	g		12	5
+妇人	A	A	N	N	A	b	a	b	1	1	g		1	5
+急人	G	A	V	N	E	a	a	e	10	1			33	5
+民工	A	A	N	N	A	a	e	e	1	2	g	g	2	6
+人主	A	A	N	N	A	a	a	f	1	1		g	5	6
+资产	D	D	N	N	D	j	j	j	3	3		g	4	6
+不到	K	H	D	V	H	a	f	j	18	8			20	6
+不到	K	H	D	V	D	a	f	n	18	8			5	6
+出国	H	D	V	N	H	j	i	f	64	2			4	6
+多时	E	C	A	N	E	b	a	b	1	3			24	6
+工民	A	A	N	N	A	e	a	e	2	1	g	g	2	6
+公民	E	A	A	N	A	d	a	a	55	1	g	g	1	6
+公人	E	A	A	N	A	d	a	f	55	1	g		8	6
+国民	D	A	N	N	A	i	a	a	2	1		g	1	6
+多多	E	E	A	A	E	b	b	b	1	1			1	6
+同时	J	C	V	N	K	b	a	c	1	3			2	6
+外出	C	H	N	V	H	b	j	j	15	64			37	6
+现场	C	C	T	N	C	a	b	b	10	28		g	28	6
+学时	H	C	V	N	C	g	a	a	8	3			30	6
+说理	H	D	V	N	H	i	b	i	12	6			41	6
+用场	H	C	V	N	D	j	b	a	28	28		g	25	6
+员工	A	A	N	N	A	a	e	e	1	2	g	g	1	6
+自是	A	E	R	A	E	a	d	e	5	12			34	6
+长工	E	A	A	N	A	a	e	e	1	2		g	2	6
+电场	B	C	N	N	C	g	b	b	4	28		g	28	6
+电工	B	A	N	N	A	g	e	e	4	2		g	2	6
+法场	D	C	N	N	C	i	b	b	25	28	g	g	28	6
+机工	B	A	N	N	A	n	e	e	1	2	g	g	2	6
+力场	D	C	N	N	C	d	b	b	25	28		g	28	6
+法人	D	A	N	N	A	i	a	a	25	1	g		1	6
+水工	B	A	N	N	D	g	e	i	1	2		g	18	6
+水工	B	A	N	N	A	g	e	e	1	2		g	3	6
+第一	D	D	M	M	K	n	n	a	4	3			9	6
+第一	D	D	M	M	E	n	n	d	4	3			28	6
+改进	I	H	V	V	I	h	j	h	2	67			11	6
+可不	G	K	V	D	K	b	a	a	15	18	g		18	6
+两全	D	E	M	A	E	n	b	d	4	7			11	6
+路人	B	A	N	N	A	n	a	j	11	1			2	6
+美人	E	A	A	N	A	b	a	c	30	1			3	6
+特工	E	A	A	N	A	d	e	e	4	2		g	11	6
+调人	H	A	V	N	A	c	a	j	3	1			14	6
+今人	C	A	T	N	A	a	a	i	10	1			1	6
+无理	K	D	D	N	E	a	b	d	18	6			13	6
+物资	B	D	N	N	B	a	j	a	1	3	g		6	6
+先进	C	H	T	V	E	b	j	e	4	67	g		37	6
+山国	B	D	N	N	C	e	i	b	4	2			10	6
+山民	B	A	N	N	A	e	a	f	4	1		g	11	6
+四方	D	C	M	N	C	n	b	b	4	1		g	9	6
+四方	D	C	M	N	C	n	b	b	4	1		g	2	6
+车场	B	C	N	N	C	o	b	b	21	28		g	28	6
+集会	I	I	V	V	D	e	e	i	10	10			23	6
+军人	D	A	N	N	A	i	a	e	11	1	g		10	6
+论理	H	D	V	N	D	i	b	b	13	6	g		6	6
+证人	J	A	V	N	A	a	a	j	4	1			14	6
+江国	B	D	N	N	C	e	i	b	5	2	g		10	6
+老人	E	A	A	N	A	b	a	b	36	1			2	6
+老人	E	A	A	N	A	b	a	h	36	1			4	6
+老人	E	A	A	N	A	b	a	i	36	1			2	6
+林场	B	C	N	N	C	h	b	b	1	28	g	g	28	6
+完人	E	A	A	N	A	b	a	k	7	1			3	6
+那个	E	D	R	Q	E	d	n	d	61	8			61	6
+那个	E	D	R	Q	K	d	n	a	61	8			1	6
+才人	D	A	N	N	A	e	a	f	4	1			7	6
+副主	E	A	B	N	A	d	a	f	28	1		g	6	6
+积年	H	C	V	N	E	e	a	b	13	14		g	24	6
+王国	A	D	N	N	D	f	i	i	5	2	g		2	6
+女的	E	K	N	U	A	b	d	h	35	1	g		8	6
+女工	E	A	N	N	D	b	e	i	35	2	g	g	19	6
+神人	D	A	N	N	D	h	a	h	1	1			1	6
+劳工	H	A	V	N	A	j	e	e	11	2		g	2	6
+劳资	H	D	V	N	A	j	j	a	11	3			1	6
+她们	A	A	R	R	A	a	a	a	4	1			4	6
+银工	B	A	N	N	A	m	e	e	1	2		g	2	6
+客人	A	A	N	N	A	j	a	e	5	1	g		9	6
+客人	A	A	N	N	A	j	a	n	5	1	g		7	6
+客人	A	A	N	N	A	j	a	g	5	1	g		10	6
+客场	A	C	N	N	C	j	b	b	5	28	g	g	28	6
+往来	H	H	V	V	H	j	j	i	63	63			1	6
+铁工	B	A	N	N	A	m	e	e	2	2		g	2	6
+八方	D	C	M	N	C	n	b	b	4	1		g	9	6
+检场	H	C	V	N	A	c	b	e	18	28		g	17	6
+考场	H	C	V	N	C	g	b	b	7	28		g	28	6
+旅人	H	A	V	N	A	f	a	g	4	1			10	6
+药理	B	D	N	N	D	r	b	b	13	6			6	6
+病人	D	A	N	N	A	l	a	g	1	1			1	6
+火主	B	A	N	N	A	g	a	g	3	1		g	7	6
+监场	H	C	V	N	H	c	b	c	19	28	g	g	19	6
+监工	H	A	V	N	A	c	e	f	19	2	g	g	10	6
+健全	E	E	A	A	E	b	b	d	37	7			11	6
+居民	H	A	V	N	A	j	a	d	1	1		g	1	6
+良民	E	A	A	N	A	d	a	k	3	1		g	3	6
+武人	A	A	N	N	A	e	a	e	10	1	g		10	6
+习作	H	D	V	N	H	g	k	g	6	19			16	6
+试场	H	C	V	N	C	j	b	b	12	28		g	28	6
+待到	H	H	V	V	K	i	f	b	7	8	g		2	6
+古来	C	H	T	V	C	a	j	a	2	63			11	6
+讲理	H	D	V	N	E	i	b	e	12	6			38	6
+泽国	B	D	N	N	B	e	i	e	1	2	g		1	6
+泽国	B	D	N	N	C	e	i	b	1	2	g		10	6
+夫人	A	A	N	N	A	h	a	b	8	1	g		1	6
+福人	D	A	N	N	A	a	a	g	9	1	g		5	6
+画工	H	A	V	N	A	g	e	e	19	2		g	2	6
+画人	H	A	V	N	A	g	a	l	19	1			1	6
+自家	A	A	R	N	A	a	a	a	5	1			5	7
+自经	A	B	R	N	H	a	k	j	5	16		g	52	7
+报到	H	H	V	V	H	i	f	c	15	8			15	7
+只是	K	E	D	A	K	a	d	a	7	12			7	7
+功业	D	D	N	N	D	a	i	a	14	18		g	14	7
+温和	E	E	A	A	E	b	e	b	26	7		g	26	7
+伟业	E	D	A	N	D	d	i	a	20	18		g	14	7
+跃进	F	H	V	V	F	b	j	b	2	67			2	7
+晴和	I	E	V	A	I	a	e	a	2	7		g	2	7
+要是	K	E	C	A	K	c	d	c	8	12			8	7
+外部	C	E	N	N	D	b	b	d	5	2	g	g	8	7
+外部	C	E	F	N	D	b	b	d	5	2		g	8	7
+等到	K	H	P	V	K	b	f	b	2	8			2	7
+条理	D	D	N	N	D	b	b	b	7	6			7	7
+革出	H	H	V	V	H	c	j	c	22	64	g		22	7
+销场	H	C	V	N	D	e	b	g	3	28		g	7	7
+别业	E	D	R	N	B	d	i	n	61	18		g	2	7
+软和	E	E	A	A	E	d	e	d	15	7		g	15	7
+独到	K	H	D	V	E	a	f	d	23	8			4	7
+擅场	G	C	V	N	E	c	b	d	2	28		g	4	7
+疾作	E	D	A	N	I	b	k	b	23	19			10	7
+坚实	E	E	A	N	E	b	b	b	10	6			11	7
+坚实	E	E	A	N	E	b	b	d	10	6			19	7
+即事	I	D	V	N	D	d	a	a	21	1			1	7
+陈设	I	H	V	V	B	d	c	a	8	5	g		2	7
+陈设	I	H	V	V	I	d	c	d	8	5	g		8	7
+债务	D	D	V	N	D	j	a	j	4	1		g	4	7
+肥实	E	E	A	N	E	a	b	a	7	6			7	7
+震动	J	I	V	A	J	e	h	e	2	1			2	7
+静电	E	B	V	N	B	d	g	g	14	4			4	7
+懂得	G	J	V	V	G	b	e	b	8	12		g	8	7
+敦实	E	E	A	N	E	e	b	b	5	6	g		37	7
+粗实	E	E	A	N	E	a	b	a	6	6			6	7
+抹面	F	B	V	N	H	a	k	d	20	2		g	3	7
+宵分	C	H	T	V	C	a	j	a	29	30			29	7
+笃定	E	I	V	V	G	e	h	a	6	9	g		9	7
+家用	D	H	N	V	D	i	j	j	5	28			8	7
+建制	H	H	V	V	D	c	d	d	5	4			6	7
+建制	H	H	V	V	D	c	d	i	5	4			9	7
+主动	E	I	A	A	E	e	h	e	23	1			23	7
+万分	K	H	D	V	K	a	j	a	32	30			1	7
+后学	C	H	T	V	A	a	g	e	12	8	g		13	7
+后学	C	H	T	V	A	a	g	i	12	8	g		3	7
+充实	J	E	V	N	I	d	b	h	6	6	g		5	7
+充实	J	E	V	N	E	d	b	d	6	6	g		39	7
+难过	E	H	A	V	I	d	f	b	3	6			10	7
+难过	E	H	A	V	G	d	f	a	3	6			1	7
+引动	J	I	V	A	J	e	h	e	4	1			2	7
+引动	J	I	V	A	J	e	h	e	4	1			4	7
+神品	E	B	A	N	D	d	a	k	3	3			19	7
+补报	I	H	V	V	H	h	i	i	5	15			29	7
+虚设	E	H	A	V	E	d	c	d	1	5			1	7
+径自	K	A	D	R	K	a	a	a	25	5			25	7
+板实	E	E	A	N	E	b	b	b	10	6			10	7
+厅事	D	D	N	N	B	m	a	n	1	1	g		3	7
+暗自	E	A	A	R	E	d	a	d	44	5	g		44	7
+扇动	H	I	V	A	H	i	h	i	56	1			56	7
+结实	I	E	V	N	I	b	b	b	21	6			21	7
+员司	A	H	N	V	A	a	c	e	1	9	g		1	7
+金管	B	B	N	N	B	m	m	p	1	7	g		17	7
+题目	D	B	N	N	D	d	k	k	15	3			7	7
+题目	D	B	N	N	D	d	k	d	15	3			15	7
+酒保	B	H	N	V	A	r	b	e	12	4			6	7
+累次	H	D	V	N	K	e	d	a	13	7		g	10	7
+弱小	E	E	A	A	E	d	a	d	19	3	g		19	7
+刑名	D	D	N	N	D	i	d	i	26	15			25	7
+渐次	K	D	D	N	K	a	d	a	8	7		g	8	7
+屡次	K	D	D	N	K	a	d	a	10	7		g	10	7
+衙门	D	B	N	N	D	m	n	m	1	4	g		1	7
+宦海	A	B	N	N	D	f	e	d	8	5	g		5	7
+学问	D	H	N	V	D	k	i	k	2	18			2	7
+合度	J	D	V	N	E	c	n	d	1	1			49	7
+目次	D	D	N	N	D	k	d	k	9	7	g	g	9	7
+小子	A	A	N	N	A	b	h	b	4	14	g		4	7
+将次	K	D	D	N	K	a	d	a	13	7		g	13	7
+题目	D	B	N	N	D	d	k	k	15	3	r		7	7
+题目	D	B	N	N	D	d	k	d	15	3	r		15	7
+值当	G	J	V	V	G	c	b	c	4	1		g	4	7
+老总	K	H	N	V	A	d	j	e	6	15	h		10	7
+幽明	D	E	N	A	D	h	b	a	2	18	g		17	7
+阴门	B	B	N	N	B	k	n	k	15	4	g		15	7
+音问	D	H	N	V	D	a	i	a	19	18			19	7
+乌金	E	B	B	N	B	c	m	m	4	1		g	8	7
+瘪三	A	D	N	M	A	g	n	n	8	4	g		3	7
+瘪三	A	D	N	M	A	g	n	g	8	4	g		8	7
+历次	K	D	D	N	K	a	d	a	10	7		g	11	7
+日西	B	C	N	F	I	d	b	a	2	2			1	7
+情由	D	D	N	N	D	f	b	b	4	1			1	7
+难题	E	D	N	N	D	d	d	k	7	15	g		3	7
+难题	E	D	N	N	D	d	d	a	7	15	g		1	7
+效应	D	H	N	V	D	a	i	a	25	18			25	7
+知道	G	B	V	N	G	b	n	b	8	11			8	7
+速决	E	G	A	V	J	b	a	d	23	11			9	7
+音强	B	E	N	A	D	g	d	n	7	3			1	7
+宏达	E	H	A	V	E	d	f	e	20	8			18	7
+脑际	B	C	N	N	D	k	b	f	2	14	g	g	1	7
+细条	E	B	A	N	E	a	h	a	6	10		g	6	7
+救应	H	H	V	V	H	i	i	i	36	18			36	7
+味道	B	B	N	N	B	g	n	g	6	11			6	7
+恢达	E	H	A	V	E	a	f	e	4	8			35	7
+跃进	F	H	V	V	H	b	j	j	2	67			67	8
+兆民	D	A	N	N	A	a	a	a	22	1		g	1	8
+幽人	E	A	A	N	A	f	a	f	4	1			11	8
+舌人	B	A	N	N	A	k	a	e	4	1			16	8
+簇新	B	E	N	A	E	b	b	b	3	28	g		28	8
+璧人	B	A	N	N	A	m	a	c	16	1			3	8
+中人	C	A	N	N	A	b	a	l	5	1	g		4	8
+中人	C	A	N	N	A	b	a	j	5	1	g		14	8
+中人	C	A	N	N	A	b	a	e	5	1	g		1	8
+大人	E	A	N	N	A	d	a	h	26	1	g		4	8
+大要	E	D	A	N	D	a	k	k	3	10			10	8
+法场	D	C	N	N	C	b	b	b	6	28		g	28	8
+可人	G	A	V	N	E	c	a	d	4	1			40	8
+平和	G	E	V	A	E	b	e	d	16	7		g	15	8
+天理	D	D	N	N	D	h	b	b	1	6			6	8
+小工	D	A	M	N	A	n	e	e	4	2		g	2	8
+明人	C	A	N	N	A	a	a	k	2	1			3	8
+通国	H	D	V	N	D	f	i	i	6	2			2	8
+道理	D	D	N	N	D	b	b	b	9	6			6	8
+原理	K	D	D	N	D	a	b	b	10	6			6	8
+充公	H	E	V	A	H	j	d	m	58	55		g	8	8
+川资	B	D	N	N	D	e	j	j	1	3	g		8	8
+洒家	I	A	V	N	A	d	a	a	9	1			2	8
+清新	E	E	A	A	E	b	b	b	19	28			28	8
+纪要	C	D	T	N	D	a	k	k	2	10	g		26	8
+津人	E	A	V	N	A	b	a	e	27	1			3	8
+齐全	K	E	D	A	E	a	b	b	23	7			7	8
+成事	I	D	V	N	D	f	a	a	22	1			7	8
+重力	D	D	N	N	D	n	d	d	1	25			14	8
+从而	H	K	V	C	K	j	c	c	36	2			9	8
+金文	B	D	N	N	D	m	k	k	1	5	g	g	5	8
+白事	E	D	B	N	D	c	a	a	4	1			1	8
+雷同	B	J	N	V	J	f	b	b	6	1			1	8
+坏事	E	D	A	N	H	d	a	i	3	1			61	8
+犀利	B	E	N	A	E	i	b	d	6	14	g		15	8
+笃学	E	H	V	V	E	e	g	e	6	8	g		24	8
+关说	J	H	V	V	H	e	i	i	1	12			25	8
+就事	H	D	V	N	H	j	a	c	19	1			27	8
+应用	H	H	V	V	H	i	j	j	9	28			28	8
+相机	D	B	N	N	B	c	n	p	2	1		g	15	8
+飞文	I	D	V	N	D	a	k	k	3	5		g	11	8
+失事	I	D	V	N	I	f	a	f	19	1			18	8
+负电	D	B	B	N	B	k	g	g	4	4			4	8
+满月	I	B	V	N	B	e	d	d	16	2			2	8
+约法	J	D	V	N	D	e	i	i	8	25		g	25	8
+新月	E	B	N	N	B	d	d	d	4	2	g		2	8
+小名	E	D	A	N	D	a	d	d	3	15			15	8
+题目	D	B	N	N	D	d	k	k	15	3			3	8
+举目	F	B	V	N	F	a	k	c	4	3			4	8
+复种	I	H	V	V	H	g	d	d	4	20	g		20	8
+半子	D	A	M	N	A	n	h	h	5	14			15	8
+继子	I	A	V	N	A	g	h	h	3	14			14	8
+死水	I	B	V	N	B	b	g	g	3	1			1	8
+硬水	E	B	A	N	B	b	g	g	10	1			1	8
+羊水	B	B	N	N	B	i	g	l	6	1			2	8
+赤金	E	B	B	N	B	c	m	m	1	1		g	1	8
+生水	E	B	A	N	B	b	g	g	15	1			1	8
+本科	E	D	N	N	D	d	k	k	56	3	g	g	3	8
+动问	I	H	V	V	L	d	i	a	14	18			2	8
+动问	I	H	V	V	L	d	i	a	14	18	g		2	8
+过问	H	H	V	V	H	c	i	i	27	18			23	8
+题目	D	B	N	N	D	d	k	k	15	3	r		3	8
+点名	H	D	V	N	H	c	d	c	19	15			4	8
+取代	I	H	V	V	H	f	i	i	9	17		g	17	8
+指使	H	H	V	V	H	g	c	i	2	4			56	8
+参天	E	C	X	N	E	a	b	a	9	7			2	8
+穴位	B	C	N	N	C	k	b	b	16	1		g	1	8
+浑名	E	D	A	N	D	e	d	d	14	15			15	8
+复种	I	H	V	V	H	g	d	d	4	20			20	8
+皇天	A	C	N	N	C	f	b	b	5	7			7	8
+寓目	J	B	V	N	H	e	k	c	5	3			18	8
+沟通	B	I	N	V	I	n	d	e	8	20			2	8
+奶名	B	D	N	N	D	l	d	d	1	15	g		15	8
+逆子	A	A	N	N	A	n	h	k	1	14	g		7	8
+泥金	B	B	N	N	B	b	m	m	2	1	g	g	11	8
+出路	H	B	V	N	C	j	n	b	64	11			27	8
+理由	D	D	N	N	D	b	b	b	6	1			4	8
+外表	C	B	N	N	B	b	c	c	15	2			2	8
+用意	H	D	V	N	D	j	f	f	28	12			2	8
+就道	I	B	V	N	I	d	n	g	21	11			1	8
+块规	B	B	N	N	B	b	o	o	1	18	g	g	18	8
+锐意	E	D	A	N	G	b	f	a	14	12	g		11	8
+秉性	F	D	V	N	D	a	e	e	6	1			1	8
+苟安	E	E	A	A	H	e	f	j	11	1			9	8
+甬道	B	B	N	N	B	e	n	n	5	11	s		10	8
+甬道	B	B	N	N	B	e	n	n	5	11	s		11	8
+来由	G	D	V	N	D	c	b	b	2	1	g		1	8
+目今	F	C	V	T	C	c	a	a	4	10			10	8
+调教	H	H	V	V	H	i	g	g	45	1	g		4	8
+间道	I	B	V	N	B	e	n	n	2	11			11	8
+原由	K	D	D	N	D	a	b	b	10	1			1	8
+反应	H	H	V	V	D	b	i	a	3	18	g		25	8
+独特	K	E	D	A	E	a	d	d	23	4			4	8
+开口	I	B	V	N	H	h	k	i	3	4			12	8
+其间	A	C	R	F	D	a	b	a	4	4			5	8
+温情	E	D	A	N	E	b	f	d	26	4			15	8
+虎步	B	D	N	N	D	i	c	c	2	3			3	8
+碎步	E	D	A	N	F	b	c	b	7	3			1	8
+旷世	E	C	A	T	E	a	a	d	4	2		g	4	8
+蕙质	B	D	N	N	D	h	d	e	3	1			1	8

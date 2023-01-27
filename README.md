@@ -1,2 +1,1 @@
-# CWIWY
- codes in college
+codes in college

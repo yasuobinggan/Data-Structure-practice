@@ -1,2 +1,2 @@
 # Data-Structure
-data structure practice
+about data structure practice
